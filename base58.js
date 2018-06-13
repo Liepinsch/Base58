@@ -2,7 +2,7 @@
 (function() {
   var ALPHABET, ALPHABET_MAP, Base58, i;
 
-  Base58 = (typeof module !== "undefined" && module !== null ? module.exports : void 0);// || (window.Base58 = {});
+  //Base58 = (typeof module !== "undefined" && module !== null ? module.exports : void 0);// || (window.Base58 = {});
 
   ALPHABET = "123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz";
 
